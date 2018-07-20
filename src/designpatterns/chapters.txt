@@ -2,15 +2,15 @@ Design patterns
 
 Chapter 1 - Composition over inheritance (delegates)
 
-Chapter 2 - Page 037 - Observer pattern
+Chapter 2 - Page 075 - Observer pattern
 
-Chapter 3 - Page 079 - Decorator pattern
+Chapter 3 - Page 117 - Decorator pattern
 
-Chapter 4 - Page 109 - Factory pattern
+Chapter 4 - Page 147 - Factory pattern
 
-Chapter 5 - Page 169 - Singleton pattern
+Chapter 5 - Page 207 - Singleton pattern
 
-Chapter 6 -
+Chapter 6 - Page 229 - Command pattern
 
 Chapter 7 -
 
