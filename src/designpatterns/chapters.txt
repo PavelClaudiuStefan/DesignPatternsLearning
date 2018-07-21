@@ -14,6 +14,6 @@ Chapter 6 - Page 229 - Command pattern
 
 Chapter 7 - Page 273 - Adapter and facade patterns
 
-Chapter 8 -
+Chapter 8 - Page 313 - Template method pattern
 
-Chapter 9 -
+Chapter 9 - Page 353 - Iterator and composite patterns
