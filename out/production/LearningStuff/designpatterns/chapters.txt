@@ -12,7 +12,7 @@ Chapter 5 - Page 207 - Singleton pattern
 
 Chapter 6 - Page 229 - Command pattern
 
-Chapter 7 -
+Chapter 7 - Page 273 - Adapter and facade patterns
 
 Chapter 8 -
 
