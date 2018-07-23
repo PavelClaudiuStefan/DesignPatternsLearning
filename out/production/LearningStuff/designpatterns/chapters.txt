@@ -1,19 +1,21 @@
 Design patterns
 
-Chapter 1 - Composition over inheritance (delegates)
+Chapter 01 - Composition over inheritance (delegates)
 
-Chapter 2 - Page 075 - Observer pattern
+Chapter 02 - Page 075 - Observer pattern
 
-Chapter 3 - Page 117 - Decorator pattern
+Chapter 03 - Page 117 - Decorator pattern
 
-Chapter 4 - Page 147 - Factory pattern
+Chapter 04 - Page 147 - Factory pattern
 
-Chapter 5 - Page 207 - Singleton pattern
+Chapter 05 - Page 207 - Singleton pattern
 
-Chapter 6 - Page 229 - Command pattern
+Chapter 06 - Page 229 - Command pattern
 
-Chapter 7 - Page 273 - Adapter and facade patterns
+Chapter 07 - Page 273 - Adapter and facade patterns
 
-Chapter 8 - Page 313 - Template method pattern
+Chapter 08 - Page 313 - Template method pattern
 
-Chapter 9 - Page 353 - Iterator and composite patterns
+Chapter 09 - Page 353 - Iterator and composite patterns
+
+Chapter 10 - Page 423 - State pattern
