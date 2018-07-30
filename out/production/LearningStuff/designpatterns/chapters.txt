@@ -19,3 +19,7 @@ Chapter 08 - Page 313 - Template method pattern
 Chapter 09 - Page 353 - Iterator and composite patterns
 
 Chapter 10 - Page 423 - State pattern
+
+Chapter 11 - Page 467 - Proxy pattern - TODO: In terminal
+
+Chapter 12 - Page 537 - Compund pattern

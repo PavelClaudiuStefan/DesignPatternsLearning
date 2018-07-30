@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="LearningStuff:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/LearningStuff_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="LearningStuff/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="LearningStuff" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="org.json:json:20180130" />
+          <element id="library" level="project" name="com.google.code.gson:gson:2.8.5" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

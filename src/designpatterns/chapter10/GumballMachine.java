@@ -9,9 +9,10 @@ public class GumballMachine {
     private State winnerState;
 
     private State state = soldOutState;
-    int count = 0;
+    private int count = 0;
+    private String location;
 
-    public GumballMachine(int numberOfGumballs) {
+    public GumballMachine(int numberOfGumballs, String location) {
         noQuarterState = new NoQuarterState(this);
         hasQuarterState = new HasQuarterState(this);
         soldState = new SoldState(this);
@@ -21,6 +22,7 @@ public class GumballMachine {
         if (numberOfGumballs > 0) {
             state = noQuarterState;
         }
+        this.location = location;
     }
 
     public void insertQuarter() {
@@ -82,5 +84,13 @@ public class GumballMachine {
                 "\nJava-enabled Standing Gumball Model #2018" +
                 "\nInventory: " + count + " gumballs" +
                 "\n" + state.toString() + "\n";
+    }
+
+    public String getLocation() {
+        return location;
+    }
+
+    public State getState() {
+        return state;
     }
 }
